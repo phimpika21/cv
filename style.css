@@ -1,5 +1,5 @@
 body{
-  background-color: #FEE3EC
+  background-color: #FEE3EC;
 
 }
 #v1{
@@ -7,7 +7,7 @@ body{
 }
 
 .class{
-  background-color: #F9C5D5;
+  background-color: #ffdae5;
 }
 
 hr{
@@ -25,10 +25,14 @@ img{
 
 h1{
 
-  color: #F2789F
+  color: #F2789F;
 }
 
 h3{
 
-  color: #F2789F
+  color: #F2789F;
+}
+
+p{
+  color: #F2789F;
 }
